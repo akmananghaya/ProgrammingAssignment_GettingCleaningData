@@ -11,4 +11,3 @@ This repository is made for the Getting and Cleaning Data Course Project contain
  5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 * `CODEBOOK.md` is the code book which contains the variables and other relevant information about the data set.
 * `tidy_data.txt` is the data set generated from running `run_analysis.R` up to step 4.
-* `second_tidy_data.txt` is the data set generated from running `run_analysis.R` step 5.
